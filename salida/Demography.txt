@@ -1,0 +1,304 @@
+Demographics - 0.9299999999999999
+Demographics - 0.9299999999999999
+Demographics - 0.9299999999999999
+Demographics - 0.9299999999999999
+Demographics - 0.9299999999999999
+Development - 0.6678787878787878
+Development - 0.6678787878787878
+Development - 0.6678787878787878
+Development - 0.6678787878787878
+Development - 0.6678787878787878
+Development - 0.6678787878787878
+Development - 0.6678787878787878
+Development - 0.6678787878787878
+Development - 0.6678787878787878
+Development - 0.6678787878787878
+Development - 0.6678787878787878
+Development - 0.6678787878787878
+Development - 0.6678787878787878
+Development - 0.6678787878787878
+Development - 0.6678787878787878
+Development - 0.6678787878787878
+Development - 0.6678787878787878
+Development - 0.6678787878787878
+Development - 0.6678787878787878
+Development - 0.6678787878787878
+Development - 0.6678787878787878
+Development - 0.6678787878787878
+Development - 0.6678787878787878
+Development - 0.6678787878787878
+Development - 0.6678787878787878
+Development - 0.6678787878787878
+Economic Development - 0.5575505050505051
+Economic Development - 0.5575505050505051
+Economic Development - 0.5575505050505051
+Economic Development - 0.5575505050505051
+Economic Development - 0.5575505050505051
+Emergency - 0.6185185185185186
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+FIRE (NYC Fire Department Pension Fund) - 0.5965079365079365
+Greenways - 0.6185185185185186
+Greenways - 0.6185185185185186
+Greenways - 0.6185185185185186
+Growing Economy - 0.5738095238095239
+Growing Economy - 0.5738095238095239
+Growing Economy - 0.5738095238095239
+KCI Terminal Advisory - 0.5916666666666666
+KCI Terminal Advisory - 0.5916666666666666
+KCI Terminal Advisory - 0.5916666666666666
+KCI Terminal Advisory - 0.5916666666666666
+KCI Terminal Advisory - 0.5916666666666666
+KCI Terminal Advisory - 0.5916666666666666
+KCI Terminal Advisory - 0.5916666666666666
+KCI Terminal Advisory - 0.5916666666666666
+KCI Terminal Advisory - 0.5916666666666666
+KCI Terminal Advisory - 0.5916666666666666
+KCI Terminal Advisory - 0.5916666666666666
+KCI Terminal Advisory - 0.5916666666666666
+KCI Terminal Advisory - 0.5916666666666666
+KCI Terminal Advisory - 0.5916666666666666
+KCI Terminal Advisory - 0.5916666666666666
+KCI Terminal Advisory - 0.5916666666666666
+KCI Terminal Advisory - 0.5916666666666666
+KCI Terminal Advisory - 0.5916666666666666
+KCI Terminal Advisory - 0.5916666666666666
+KCI Terminal Advisory - 0.5916666666666666
+KCI Terminal Advisory - 0.5916666666666666
+Labor - 0.5333333333333333
+Labor - 0.5333333333333333
+Labor - 0.5333333333333333
+Labor - 0.5333333333333333
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Land Development - 0.6678787878787878
+Property - 0.6416666666666667
+Property - 0.6416666666666667
+Property - 0.6416666666666667
+Property - 0.6416666666666667
+Property - 0.6416666666666667
+Property - 0.6416666666666667
+Property - 0.6416666666666667
+Property - 0.6416666666666667
+Property - 0.6416666666666667
+Property - 0.6416666666666667
+Public Property - 0.6416666666666667

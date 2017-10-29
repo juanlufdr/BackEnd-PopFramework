@@ -1,0 +1,4670 @@
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+311 - 0.0
+311 - 0.0
+311 - 0.0
+311 - 0.0
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2015-2016 - 0.11857142857142855
+FY 2015-2016 - 0.11857142857142855
+FY 2015-2016 - 0.11857142857142855
+FY 2015-2016 - 0.11857142857142855
+FY 2015-2016 - 0.11857142857142855
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+ - 0.0
+311 - 0.0
+311 - 0.0
+311 - 0.0
+311 - 0.0
+311 Service Center - 0.38359788359788355
+311 Service Center - 0.38359788359788355
+Agriculture - 0.3817540484207151
+Airport - 0.3452380952380952
+Annual Audit Plan & Reports - 0.6529541446208112
+Annual Audit Plan & Reports - 0.6529541446208112
+Annual Audit Plan & Reports - 0.6529541446208112
+Annual Audit Plan & Reports - 0.6529541446208112
+Annual Audit Plan & Reports - 0.6529541446208112
+Annual Audit Plan & Reports - 0.6529541446208112
+Annual Audit Plan & Reports - 0.6529541446208112
+Annual Audit Plan & Reports - 0.6529541446208112
+Annual Audit Plan & Reports - 0.6529541446208112
+Archived - 0.46428571428571425
+Archived - 0.46428571428571425
+Archived - 0.46428571428571425
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Area Plans - 0.5785714285714285
+Arts and Culture - 0.31734693877551023
+Arts and Culture - 0.31734693877551023
+Audit Highlights - 0.20714285714285716
+Audit Highlights - 0.20714285714285716
+Audit Highlights - 0.20714285714285716
+Audit Highlights - 0.20714285714285716
+Audit Highlights - 0.20714285714285716
+Audit Highlights - 0.20714285714285716
+Audit Highlights - 0.20714285714285716
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Memos - 0.5037037037037037
+Audits and Reports - 0.37235449735449727
+Audits and Reports - 0.37235449735449727
+Audits and Reports - 0.37235449735449727
+Audits and Reports - 0.37235449735449727
+Audits and Reports - 0.37235449735449727
+Audits and Reports - 0.37235449735449727
+Audits and Reports - 0.37235449735449727
+Audits and Reports - 0.37235449735449727
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+BERS (NYC Board of Education Retirement System) - 0.29561602418745275
+Brownfields - 0.3615981240981241
+Brownfields - 0.3615981240981241
+Brownfields - 0.3615981240981241
+Brownfields - 0.3615981240981241
+Brownfields - 0.3615981240981241
+Brownfields - 0.3615981240981241
+Brownfields - 0.3615981240981241
+Brownfields - 0.3615981240981241
+Brownfields - 0.3615981240981241
+Budget - 0.4365079365079365
+Budget - 0.4365079365079365
+Budget - 0.4365079365079365
+Budget - 0.4365079365079365
+Budget - 0.4365079365079365
+Budget - 0.4365079365079365
+Budget - 0.4365079365079365
+Budget - 0.4365079365079365
+Budget - 0.4365079365079365
+Budget - 0.4365079365079365
+Budget - 0.4365079365079365
+Budget - 0.4365079365079365
+Budget - 0.4365079365079365
+Budget - 0.4365079365079365
+Budget - 0.4365079365079365
+Budget - 0.4365079365079365
+Budget - 0.4365079365079365
+Budget - 0.4365079365079365
+Budget - 0.4365079365079365
+Budget - 0.4365079365079365
+Budget - 0.4365079365079365
+Budget - 0.4365079365079365
+Budget - 0.4365079365079365
+Budget - 0.4365079365079365
+Budget - 0.4365079365079365
+Buildings - 0.41798941798941797
+Buildings - 0.41798941798941797
+Buildings - 0.41798941798941797
+Buildings - 0.41798941798941797
+Buildings - 0.41798941798941797
+Buildings - 0.41798941798941797
+Buildings - 0.41798941798941797
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Business - 0.4226190476190476
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+Census - 0.4365079365079365
+CitiStat - 0.4226190476190476
+CitiStat - 0.4226190476190476
+CitiStat - 0.4226190476190476
+CitiStat - 0.4226190476190476
+CitiStat - 0.4226190476190476
+CitiStat - 0.4226190476190476
+CitiStat - 0.4226190476190476
+CitiStat - 0.4226190476190476
+City Administration - 0.5271164021164021
+City Administration - 0.5271164021164021
+City Administration - 0.5271164021164021
+City Administration - 0.5271164021164021
+City Administration - 0.5271164021164021
+City Administration - 0.5271164021164021
+City Business - 0.48392857142857143
+City Business - 0.48392857142857143
+City Business - 0.48392857142857143
+City Business - 0.48392857142857143
+City Business - 0.48392857142857143
+City Business - 0.48392857142857143
+City Businesses - 0.4630952380952381
+City Finances - 0.5625
+City Finances - 0.5625
+City Finances - 0.5625
+City Finances - 0.5625
+City Finances - 0.5625
+City Finances - 0.5625
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Government - 0.2880952380952381
+City Hall - 0.5416666666666666
+City Hall - 0.5416666666666666
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Management and Ethics - 0.5444444444444444
+City Park and Tree Data - 0.5333333333333333
+City Services - 0.5
+City Services - 0.5
+City Services - 0.5
+City Services - 0.5
+City Services - 0.5
+City Services - 0.5
+City Services - 0.5
+City Services - 0.5
+City Services - 0.5
+City Services - 0.5
+City Services - 0.5
+City Services - 0.5
+City Services - 0.5
+City Services - 0.5
+City Services - 0.5
+City Services - 0.5
+City Services - 0.5
+City Services - 0.5
+City Services - 0.5
+City Services - 0.5
+City Services - 0.5
+Code Enforcement - 0.5546536796536796
+Code Interpretations - 0.5035714285714286
+Community - 0.3791005291005291
+Community - 0.3791005291005291
+Community - 0.3791005291005291
+Community - 0.3791005291005291
+Community - 0.3791005291005291
+Community - 0.3791005291005291
+Community - 0.3791005291005291
+Community - 0.3791005291005291
+Community - 0.3791005291005291
+Community - 0.3791005291005291
+Community - 0.3791005291005291
+Community - 0.3791005291005291
+Community - 0.3791005291005291
+Community - 0.3791005291005291
+Community - 0.3791005291005291
+Community - 0.3791005291005291
+Community - 0.3791005291005291
+Community - 0.3791005291005291
+Community - 0.3791005291005291
+Community - 0.3791005291005291
+Community - 0.3791005291005291
+Community - 0.3791005291005291
+Community - 0.3791005291005291
+Community - 0.3791005291005291
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Community & Economic Development - 0.5531776094276094
+Construction - 0.4087301587301588
+Construction - 0.4087301587301588
+Construction - 0.4087301587301588
+Construction - 0.4087301587301588
+Construction - 0.4087301587301588
+Construction - 0.4087301587301588
+Construction - 0.4087301587301588
+Construction - 0.4087301587301588
+Construction - 0.4087301587301588
+Construction - 0.4087301587301588
+Construction - 0.4087301587301588
+Construction - 0.4087301587301588
+Construction - 0.4087301587301588
+Construction - 0.4087301587301588
+Construction - 0.4087301587301588
+Construction - 0.4087301587301588
+Construction - 0.4087301587301588
+Construction - 0.4087301587301588
+Construction - 0.4087301587301588
+Construction - 0.4087301587301588
+Construction - 0.4087301587301588
+Construction - 0.4087301587301588
+Construction - 0.4087301587301588
+Construction - 0.4087301587301588
+Construction - 0.4087301587301588
+Crime - 0.44761904761904764
+Crime - 0.44761904761904764
+Crime - 0.44761904761904764
+Crime - 0.44761904761904764
+Crime - 0.44761904761904764
+Crime - 0.44761904761904764
+Crime - 0.44761904761904764
+Crime - 0.44761904761904764
+Crime - 0.44761904761904764
+Crime - 0.44761904761904764
+Crime - 0.44761904761904764
+Crime - 0.44761904761904764
+Culture & Arts - 0.46020408163265314
+Culture & Arts - 0.46020408163265314
+Culture & Arts - 0.46020408163265314
+Culture & Arts - 0.46020408163265314
+Culture & Arts - 0.46020408163265314
+Culture & Arts - 0.46020408163265314
+Culture & Arts - 0.46020408163265314
+Culture & Arts - 0.46020408163265314
+Culture & Arts - 0.46020408163265314
+Culture & Arts - 0.46020408163265314
+Culture & Arts - 0.46020408163265314
+Culture & Arts - 0.46020408163265314
+Culture and Recreation - 0.5246031746031746
+Culture and Recreation - 0.5246031746031746
+Culture and Recreation - 0.5246031746031746
+Culture and Recreation - 0.5246031746031746
+Culture and Recreation - 0.5246031746031746
+Culture and Recreation - 0.5246031746031746
+Culture and Recreation - 0.5246031746031746
+Culture and Recreation - 0.5246031746031746
+Customer Service - 0.4821428571428571
+Customer Service - 0.4821428571428571
+Customer Service - 0.4821428571428571
+Demographics - 0.44841269841269843
+Demographics - 0.44841269841269843
+Demographics - 0.44841269841269843
+Demographics - 0.44841269841269843
+Demographics - 0.44841269841269843
+Development - 0.45598845598845594
+Development - 0.45598845598845594
+Development - 0.45598845598845594
+Development - 0.45598845598845594
+Development - 0.45598845598845594
+Development - 0.45598845598845594
+Development - 0.45598845598845594
+Development - 0.45598845598845594
+Development - 0.45598845598845594
+Development - 0.45598845598845594
+Development - 0.45598845598845594
+Development - 0.45598845598845594
+Development - 0.45598845598845594
+Development - 0.45598845598845594
+Development - 0.45598845598845594
+Development - 0.45598845598845594
+Development - 0.45598845598845594
+Development - 0.45598845598845594
+Development - 0.45598845598845594
+Development - 0.45598845598845594
+Development - 0.45598845598845594
+Development - 0.45598845598845594
+Development - 0.45598845598845594
+Development - 0.45598845598845594
+Development - 0.45598845598845594
+Development - 0.45598845598845594
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Development Review - 0.4978354978354978
+Economic Data - 0.44345238095238093
+Economic Data - 0.44345238095238093
+Economic Data - 0.44345238095238093
+Economic Development - 0.4393037518037518
+Economic Development - 0.4393037518037518
+Economic Development - 0.4393037518037518
+Economic Development - 0.4393037518037518
+Economic Development - 0.4393037518037518
+Economic Development & Redevelopment - 0.47982572982572985
+Economic Development & Redevelopment - 0.47982572982572985
+Economic Development & Redevelopment - 0.47982572982572985
+Economic Development & Redevelopment - 0.47982572982572985
+Economy - 0.42857142857142855
+Economy and Community - 0.4157785336356765
+Economy and Community - 0.4157785336356765
+Economy and Community - 0.4157785336356765
+Economy and Community - 0.4157785336356765
+Economy and Community - 0.4157785336356765
+Economy and Community - 0.4157785336356765
+Economy and Community - 0.4157785336356765
+Economy and Community - 0.4157785336356765
+Economy and Community - 0.4157785336356765
+Economy and Workforce - 0.3527777777777778
+Economy and Workforce - 0.3527777777777778
+Economy and Workforce - 0.3527777777777778
+Economy and Workforce - 0.3527777777777778
+Economy and Workforce - 0.3527777777777778
+Economy and Workforce - 0.3527777777777778
+Economy and Workforce - 0.3527777777777778
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education - 0.5026455026455027
+Education/Youth/Family - 0.4588744588744589
+Elections - 0.5158730158730158
+Elections - 0.5158730158730158
+Elections - 0.5158730158730158
+Elections - 0.5158730158730158
+Elections - 0.5158730158730158
+Elections - 0.5158730158730158
+Elections - 0.5158730158730158
+Elections - 0.5158730158730158
+Elections - 0.5158730158730158
+Elections - 0.5158730158730158
+Elections - 0.5158730158730158
+Elections - 0.5158730158730158
+Elections - 0.5158730158730158
+Elections - 0.5158730158730158
+Elections - 0.5158730158730158
+Emergency - 0.5873015873015873
+Energy - 0.281305114638448
+Energy and Environment - 0.4915824915824915
+Energy and Environment - 0.4915824915824915
+Energy and Environment - 0.4915824915824915
+Energy and Environment - 0.4915824915824915
+Energy and Environment - 0.4915824915824915
+Energy and Environment - 0.4915824915824915
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment - 0.5670995670995671
+Environment & Energy - 0.4723063973063973
+Environment & Energy - 0.4723063973063973
+Environment & Energy - 0.4723063973063973
+Environment & Energy - 0.4723063973063973
+Environment & Energy - 0.4723063973063973
+Environment & Energy - 0.4723063973063973
+Environment & Energy - 0.4723063973063973
+Environment & Energy - 0.4723063973063973
+Environment & Energy - 0.4723063973063973
+Environment & Energy - 0.4723063973063973
+Environment & Energy - 0.4723063973063973
+Environment & Energy - 0.4723063973063973
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment and Sustainability - 0.47782587782587777
+Environment and Sustainability - 0.47782587782587777
+Environment and Sustainability - 0.47782587782587777
+Environment and Sustainability - 0.47782587782587777
+Environment and Sustainability - 0.47782587782587777
+Environmental - 0.553113553113553
+Environmental - 0.553113553113553
+Environmental - 0.553113553113553
+Environmental - 0.553113553113553
+Environmental - 0.553113553113553
+Environmental - 0.553113553113553
+Environmental - 0.553113553113553
+Environmental - 0.553113553113553
+Environmental - 0.553113553113553
+Environmental - 0.553113553113553
+Environmental - 0.553113553113553
+Environmental Management Commission - 0.3687336473050759
+Environmental Management Commission - 0.3687336473050759
+Environmental Management Commission - 0.3687336473050759
+Environmental Management Commission - 0.3687336473050759
+Environmental Management Commission - 0.3687336473050759
+Environmental Management Commission - 0.3687336473050759
+Environmental Management Commission - 0.3687336473050759
+Environmental Management Commission - 0.3687336473050759
+Environmental Management Commission - 0.3687336473050759
+Environmental Management Commission - 0.3687336473050759
+Environmental Management Commission - 0.3687336473050759
+Environmental Management Commission - 0.3687336473050759
+Environmental Management Commission - 0.3687336473050759
+Environmental Management Commission - 0.3687336473050759
+Ethics - 0.4365079365079365
+Ethics - 0.4365079365079365
+Ethics - 0.4365079365079365
+Ethics - 0.4365079365079365
+Ethics - 0.4365079365079365
+Ethics - 0.4365079365079365
+Ethics - 0.4365079365079365
+Ethics - 0.4365079365079365
+Events - 0.314781746031746
+Events - 0.314781746031746
+Expenditures - 0.32172619047619044
+Expenditures - 0.32172619047619044
+Expenditures - 0.32172619047619044
+FOIA - 0.26964285714285713
+FOIA - 0.26964285714285713
+FOIA - 0.26964285714285713
+FOIA - 0.26964285714285713
+FOIA - 0.26964285714285713
+FOIA - 0.26964285714285713
+FOIA - 0.26964285714285713
+FOIA - 0.26964285714285713
+FOIA - 0.26964285714285713
+FOIA - 0.26964285714285713
+FOIA - 0.26964285714285713
+FOIA - 0.26964285714285713
+FOIA - 0.26964285714285713
+FOIA - 0.26964285714285713
+FOIA - 0.26964285714285713
+FOIA - 0.26964285714285713
+FOIA - 0.26964285714285713
+FOIA - 0.26964285714285713
+FOIA - 0.26964285714285713
+FOIA - 0.26964285714285713
+FOIA - 0.26964285714285713
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2009-2010 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2010-2011 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2011-2012 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2012-2013 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2013-2014 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2014-2015 - 0.11857142857142855
+FY 2015-2016 - 0.11857142857142855
+FY 2015-2016 - 0.11857142857142855
+FY 2015-2016 - 0.11857142857142855
+FY 2015-2016 - 0.11857142857142855
+FY 2015-2016 - 0.11857142857142855
+Facilities - 0.5738095238095239
+Facilities - 0.5738095238095239
+Facilities - 0.5738095238095239
+Fees - 0.3337742504409171
+Fees - 0.3337742504409171
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Finance - 0.6190476190476191
+Financial - 0.5026455026455027
+Financial - 0.5026455026455027
+Financial - 0.5026455026455027
+Financial - 0.5026455026455027
+Financial - 0.5026455026455027
+Financial - 0.5026455026455027
+Financial - 0.5026455026455027
+Financial - 0.5026455026455027
+Financial - 0.5026455026455027
+Financial - 0.5026455026455027
+Financial - 0.5026455026455027
+Financial - 0.5026455026455027
+Financial Data - 0.4834656084656085
+Fire - 0.3324514991181658
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2013 - 0.4193121693121693
+Fiscal Year 2014 Proposed to Council - 0.5962301587301587
+Fiscal Year 2015 - 0.4193121693121693
+Fiscal Year 2016 - 0.4193121693121693
+Fiscal Year 2016 Proposed to Council - 0.5962301587301587
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Food - 0.47222222222222215
+Food - 0.47222222222222215
+Forecasts - 0.5052910052910052
+Forms - 0.3818342151675485
+Forms - 0.3818342151675485
+GIS - 0.4682539682539682
+GIS - 0.4682539682539682
+GIS - 0.4682539682539682
+GIS - 0.4682539682539682
+GIS - 0.4682539682539682
+GIS data - 0.5079365079365079
+GIS data - 0.5079365079365079
+GIS data - 0.5079365079365079
+GIS data - 0.5079365079365079
+General Information - 0.4642231842231842
+General Information - 0.4642231842231842
+General Information - 0.4642231842231842
+General Information - 0.4642231842231842
+General Information - 0.4642231842231842
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic - 0.46507936507936504
+Geographic Base Layers - 0.37592592592592594
+Geographic Base Layers - 0.37592592592592594
+Geographic Base Layers - 0.37592592592592594
+Geographic Base Layers - 0.37592592592592594
+Geographic Boundaries - 0.5206349206349207
+Geographic Boundaries - 0.5206349206349207
+Geographic Boundaries - 0.5206349206349207
+Geographic Boundaries - 0.5206349206349207
+Geographic Boundaries - 0.5206349206349207
+Geographic Boundaries - 0.5206349206349207
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Geographic Locations and Boundaries - 0.5069444444444444
+Governance - 0.5738095238095239
+Governance - 0.5738095238095239
+Governance - 0.5738095238095239
+Governance - 0.5738095238095239
+Governance - 0.5738095238095239
+Governance - 0.5738095238095239
+Governance - 0.5738095238095239
+Governance - 0.5738095238095239
+Governance - 0.5738095238095239
+Governance - 0.5738095238095239
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government - 0.5761904761904763
+Government Administration - 0.5306878306878308
+Government Administration - 0.5306878306878308
+Government Administration - 0.5306878306878308
+Government Administration - 0.5306878306878308
+Government Administration - 0.5306878306878308
+Government Administration - 0.5306878306878308
+Government Administration - 0.5306878306878308
+Government Administration - 0.5306878306878308
+Government Administration - 0.5306878306878308
+Government Administration - 0.5306878306878308
+Government Administration - 0.5306878306878308
+Government Administration - 0.5306878306878308
+Government Administration - 0.5306878306878308
+Government Administration - 0.5306878306878308
+Government Administration - 0.5306878306878308
+Greenways - 0.34656084656084657
+Greenways - 0.34656084656084657
+Greenways - 0.34656084656084657
+Growing Economy - 0.5267195767195767
+Growing Economy - 0.5267195767195767
+Growing Economy - 0.5267195767195767
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health - 0.5317460317460317
+Health & Human Services - 0.7089583333333332
+Health & Human Services - 0.7089583333333332
+Health & Human Services - 0.7089583333333332
+Health & Human Services - 0.7089583333333332
+Health & Human Services - 0.7089583333333332
+Health & Human Services - 0.7089583333333332
+Health & Human Services - 0.7089583333333332
+Health & Human Services - 0.7089583333333332
+Health & Human Services - 0.7089583333333332
+Health & Human Services - 0.7089583333333332
+Health & Human Services - 0.7089583333333332
+Health & Human Services - 0.7089583333333332
+Health & Human Services - 0.7089583333333332
+Health & Human Services - 0.7089583333333332
+Health & Human Services - 0.7089583333333332
+Health & Human Services - 0.7089583333333332
+Health & Human Services - 0.7089583333333332
+Health & Human Services - 0.7089583333333332
+Health & Human Services - 0.7089583333333332
+Health & Human Services - 0.7089583333333332
+Health & Human Services - 0.7089583333333332
+Health & Human Services - 0.7089583333333332
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Human Services - 0.5839583333333334
+Health and Social Services - 0.5576388888888888
+Health and Social Services - 0.5576388888888888
+Health and Social Services - 0.5576388888888888
+Health, Education, and Social Services - 0.576984126984127
+Health, Education, and Social Services - 0.576984126984127
+Health, Education, and Social Services - 0.576984126984127
+Health, Education, and Social Services - 0.576984126984127
+Health, Education, and Social Services - 0.576984126984127
+Health, Education, and Social Services - 0.576984126984127
+Health, Education, and Social Services - 0.576984126984127
+Health, Education, and Social Services - 0.576984126984127
+Health, Education, and Social Services - 0.576984126984127
+Health, Education, and Social Services - 0.576984126984127
+High Performing Government - 0.3470899470899471
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Historic Preservation - 0.48710317460317454
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing - 0.5129960317460318
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing & Development - 0.5041795506081221
+Housing / Development - 0.36132240775097924
+Housing / Development - 0.36132240775097924
+Housing / Development - 0.36132240775097924
+Housing / Development - 0.36132240775097924
+Housing and Buildings - 0.5460128495842782
+Housing and Buildings - 0.5460128495842782
+Housing and Buildings - 0.5460128495842782
+Housing and Buildings - 0.5460128495842782
+Housing and Buildings - 0.5460128495842782
+Housing and Buildings - 0.5460128495842782
+Housing and Buildings - 0.5460128495842782
+Housing and Buildings - 0.5460128495842782
+Housing and Buildings - 0.5460128495842782
+Housing and Buildings - 0.5460128495842782
+Housing and Buildings - 0.5460128495842782
+Housing and Buildings - 0.5460128495842782
+Housing and Buildings - 0.5460128495842782
+Housing and Buildings - 0.5460128495842782
+Housing and Buildings - 0.5460128495842782
+Housing and Buildings - 0.5460128495842782
+Housing and Buildings - 0.5460128495842782
+Housing, Land Use, and Blight - 0.5471869488536156
+Housing, Land Use, and Blight - 0.5471869488536156
+Housing, Land Use, and Blight - 0.5471869488536156
+Housing, Land Use, and Blight - 0.5471869488536156
+Housing, Land Use, and Blight - 0.5471869488536156
+Housing, Land Use, and Blight - 0.5471869488536156
+Housing, Land Use, and Blight - 0.5471869488536156
+Housing, Land Use, and Blight - 0.5471869488536156
+Housing, Land Use, and Blight - 0.5471869488536156
+Housing, Land Use, and Blight - 0.5471869488536156
+Housing, Land Use, and Blight - 0.5471869488536156
+Housing, Land Use, and Blight - 0.5471869488536156
+Housing, Land Use, and Blight - 0.5471869488536156
+Housing, Land Use, and Blight - 0.5471869488536156
+Housing, Land Use, and Blight - 0.5471869488536156
+Housing, Land Use, and Blight - 0.5471869488536156
+Housing, Land Use, and Blight - 0.5471869488536156
+Human Potential - 0.4751322751322752
+Human Potential - 0.4751322751322752
+Human Potential - 0.4751322751322752
+Human Potential - 0.4751322751322752
+Human Potential - 0.4751322751322752
+Human Potential - 0.4751322751322752
+Human Relations - 0.5174603174603175
+Human Relations - 0.5174603174603175
+Human Relations - 0.5174603174603175
+Human Relations - 0.5174603174603175
+Human Relations - 0.5174603174603175
+Human Relations - 0.5174603174603175
+Human Relations - 0.5174603174603175
+Human Relations - 0.5174603174603175
+Human Relations - 0.5174603174603175
+Human Relations - 0.5174603174603175
+Human Relations - 0.5174603174603175
+Human Relations - 0.5174603174603175
+Human Relations - 0.5174603174603175
+Human Relations - 0.5174603174603175
+Human Relations - 0.5174603174603175
+Human Relations - 0.5174603174603175
+Human Relations - 0.5174603174603175
+Human Relations - 0.5174603174603175
+Human Relations - 0.5174603174603175
+Human Relations - 0.5174603174603175
+Human Relations - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Resources - 0.5174603174603175
+Human Services - 0.5244047619047619
+Human Services - 0.5244047619047619
+Human Services - 0.5244047619047619
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Infrastructure - 0.43650793650793646
+Infrastructure - 0.43650793650793646
+Infrastructure - 0.43650793650793646
+Infrastructure - 0.43650793650793646
+Infrastructure - 0.43650793650793646
+Infrastructure - 0.43650793650793646
+Infrastructure - 0.43650793650793646
+Infrastructure - 0.43650793650793646
+Infrastructure & Transportation - 0.6891534391534391
+Infrastructure & Transportation - 0.6891534391534391
+Infrastructure & Transportation - 0.6891534391534391
+Infrastructure & Transportation - 0.6891534391534391
+Infrastructure & Transportation - 0.6891534391534391
+Infrastructure & Transportation - 0.6891534391534391
+Infrastructure and Transportation - 0.6005291005291006
+Infrastructure and Transportation - 0.6005291005291006
+Infrastructure and Transportation - 0.6005291005291006
+Innovation - 0.4142857142857143
+Insurance - 0.6601851851851852
+Internal - 0.4900793650793651
+Internal - 0.4900793650793651
+KC Bizcare - 0.30952380952380953
+KC Bizcare - 0.30952380952380953
+KC Bizcare - 0.30952380952380953
+KC Bizcare - 0.30952380952380953
+KC Bizcare - 0.30952380952380953
+KC City Energy Project - 0.4265873015873015
+KC City Energy Project - 0.4265873015873015
+Labor - 0.44166666666666665
+Labor - 0.44166666666666665
+Labor - 0.44166666666666665
+Labor - 0.44166666666666665
+Land Base - 0.482936507936508
+Land Base - 0.482936507936508
+Land Base - 0.482936507936508
+Land Base - 0.482936507936508
+Land Base - 0.482936507936508
+Land Base - 0.482936507936508
+Land Base - 0.482936507936508
+Land Base - 0.482936507936508
+Land Base - 0.482936507936508
+Land Base - 0.482936507936508
+Land Base - 0.482936507936508
+Land Base - 0.482936507936508
+Land Base - 0.482936507936508
+Land Base - 0.482936507936508
+Land Base - 0.482936507936508
+Land Base - 0.482936507936508
+Land Base - 0.482936507936508
+Land Base - 0.482936507936508
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Development - 0.44570707070707066
+Land Use - 0.24603174603174605
+Land Use - 0.24603174603174605
+Land Use - 0.24603174603174605
+Land Use - 0.24603174603174605
+Land Use - 0.24603174603174605
+Land Use - 0.24603174603174605
+Land Use - 0.24603174603174605
+Land Use - 0.24603174603174605
+Land Use - 0.24603174603174605
+Legislation - 0.45598845598845594
+Legislation - 0.45598845598845594
+Legislation - 0.45598845598845594
+Legislation - 0.45598845598845594
+Legislation - 0.45598845598845594
+Legislation - 0.45598845598845594
+Legislative Info - 0.23214285714285712
+Legislative Info - 0.23214285714285712
+Legislative Info - 0.23214285714285712
+Liabilities and Assets - 0.5664983164983165
+Liabilities and Assets - 0.5664983164983165
+Liabilities and Assets - 0.5664983164983165
+Library - 0.5079365079365079
+Local Law 11 Compliance Plan - 0.4450793650793651
+Location - 0.5119047619047619
+Location - 0.5119047619047619
+Location - 0.5119047619047619
+Location - 0.5119047619047619
+Location - 0.5119047619047619
+Location - 0.5119047619047619
+Location - 0.5119047619047619
+Location - 0.5119047619047619
+Location - 0.5119047619047619
+MIDAS - 0.44761904761904764
+MIDAS - 0.44761904761904764
+MIDAS - 0.44761904761904764
+MIDAS - 0.44761904761904764
+MIDAS - 0.44761904761904764
+MIDAS - 0.44761904761904764
+Metro Transportation - 0.5190476190476191
+Municipal Court - 0.4328042328042328
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYC BigApps - 0.21428571428571427
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+NYCERS (NYC Employees' Retirement System) - 0.42412698412698413
+Natural Resources - 0.3411640211640211
+Natural Resources - 0.3411640211640211
+Natural Resources - 0.3411640211640211
+Natural Resources - 0.3411640211640211
+Natural Resources - 0.3411640211640211
+Natural Resources - 0.3411640211640211
+Natural Resources - 0.3411640211640211
+Natural Resources - 0.3411640211640211
+Natural Resources - 0.3411640211640211
+Natural Resources - 0.3411640211640211
+Natural Resources - 0.3411640211640211
+Natural Resources - 0.3411640211640211
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Neighborhoods - 0.47985347985347987
+Parking - 0.5238095238095238
+Parks - 0.3689880952380952
+Parks & Recreation - 0.5096598639455783
+Parks & Recreation - 0.5096598639455783
+Parks & Recreation - 0.5096598639455783
+Parks & Recreation - 0.5096598639455783
+Parks & Recreation - 0.5096598639455783
+Parks & Recreation - 0.5096598639455783
+Parks & Recreation - 0.5096598639455783
+Parks & Recreation - 0.5096598639455783
+Parks & Recreation - 0.5096598639455783
+Parks & Recreation - 0.5096598639455783
+Parks & Recreation - 0.5096598639455783
+Parks & Recreation - 0.5096598639455783
+Parks & Recreation - 0.5096598639455783
+Parks & Recreation - 0.5096598639455783
+Parks & Recreation - 0.5096598639455783
+Parks & Recreation - 0.5096598639455783
+Parks & Recreation - 0.5096598639455783
+Parks & Recreation - 0.5096598639455783
+Parks & Recreation - 0.5096598639455783
+Parks & Recreation - 0.5096598639455783
+Payroll - 0.5079365079365079
+Payroll - 0.5079365079365079
+Payroll - 0.5079365079365079
+Peer Review - 0.5674603174603174
+Peer Review - 0.5674603174603174
+People - 0.6428571428571429
+Permitting - 0.49523809523809526
+Permitting - 0.49523809523809526
+Permitting - 0.49523809523809526
+Permitting - 0.49523809523809526
+Permitting - 0.49523809523809526
+Permitting - 0.49523809523809526
+Permitting - 0.49523809523809526
+Permitting - 0.49523809523809526
+Permitting - 0.49523809523809526
+Permitting - 0.49523809523809526
+Permitting - 0.49523809523809526
+Permitting - 0.49523809523809526
+Personal - 0.4900793650793651
+Personal - 0.4900793650793651
+Planning - 0.5119047619047619
+Planning - 0.5119047619047619
+Planning - 0.5119047619047619
+Police - 0.5396825396825397
+Police - 0.5396825396825397
+Police - 0.5396825396825397
+Police - 0.5396825396825397
+Police - 0.5396825396825397
+Police - 0.5396825396825397
+Police - 0.5396825396825397
+Police - 0.5396825396825397
+Police - 0.5396825396825397
+Polling Places - 0.4801587301587301
+Procurement Plan Local Law 63 - 0.4276767676767676
+Property - 0.5119047619047619
+Property - 0.5119047619047619
+Property - 0.5119047619047619
+Property - 0.5119047619047619
+Property - 0.5119047619047619
+Property - 0.5119047619047619
+Property - 0.5119047619047619
+Property - 0.5119047619047619
+Property - 0.5119047619047619
+Property - 0.5119047619047619
+Public Health - 0.48412698412698413
+Public Health - 0.48412698412698413
+Public Health - 0.48412698412698413
+Public Property - 0.4742063492063492
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety - 0.48412698412698413
+Public Safety and Preparedness - 0.5776289682539683
+Public Safety and Preparedness - 0.5776289682539683
+Public Safety and Preparedness - 0.5776289682539683
+Public Safety and Preparedness - 0.5776289682539683
+Public Safety and Preparedness - 0.5776289682539683
+Public Safety and Preparedness - 0.5776289682539683
+Public Safety and Preparedness - 0.5776289682539683
+Public Services - 0.5188492063492063
+Public Services - 0.5188492063492063
+Public Services - 0.5188492063492063
+Public Services - 0.5188492063492063
+Public Works - 0.46808862433862436
+Public Works - 0.46808862433862436
+Public Works - 0.46808862433862436
+Public Works - 0.46808862433862436
+Public Works - 0.46808862433862436
+Public Works - 0.46808862433862436
+Public Works - 0.46808862433862436
+Public Works - 0.46808862433862436
+Public Works - 0.46808862433862436
+Public Works - 0.46808862433862436
+Public Works - 0.46808862433862436
+Purchasing - 0.32857142857142857
+Purchasing - 0.32857142857142857
+Quality of Life - 0.3240740740740741
+Quality of Life - 0.3240740740740741
+Quality of Life - 0.3240740740740741
+Quality of Life - 0.3240740740740741
+Quality of Life - 0.3240740740740741
+Quality of Life - 0.3240740740740741
+Quality of Life - 0.3240740740740741
+Quality of Life - 0.3240740740740741
+Quality of Life - 0.3240740740740741
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation - 0.5738095238095239
+Recreation and Culture - 0.5246031746031746
+Recreation and Culture - 0.5246031746031746
+Recreation and Culture - 0.5246031746031746
+Recreation and Culture - 0.5246031746031746
+Recreation and Culture - 0.5246031746031746
+Reference - 0.5886243386243386
+Reference - 0.5886243386243386
+Reference - 0.5886243386243386
+Reference - 0.5886243386243386
+Reference - 0.5886243386243386
+Reference - 0.5886243386243386
+Reference - 0.5886243386243386
+Reference - 0.5886243386243386
+Reference - 0.5886243386243386
+Reference - 0.5886243386243386
+Reference - 0.5886243386243386
+Reference - 0.5886243386243386
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulated Industries - 0.5835978835978837
+Regulatory - 0.6571428571428571
+Regulatory - 0.6571428571428571
+Regulatory - 0.6571428571428571
+Regulatory - 0.6571428571428571
+Regulatory - 0.6571428571428571
+Regulatory - 0.6571428571428571
+Regulatory - 0.6571428571428571
+Regulatory Codes - 0.5523809523809524
+Regulatory Codes - 0.5523809523809524
+Regulatory Codes - 0.5523809523809524
+Regulatory Codes - 0.5523809523809524
+Regulatory Codes - 0.5523809523809524
+Regulatory Codes - 0.5523809523809524
+Regulatory Codes - 0.5523809523809524
+Regulatory Codes - 0.5523809523809524
+Regulatory Codes - 0.5523809523809524
+Regulatory Codes - 0.5523809523809524
+Regulatory Codes - 0.5523809523809524
+Regulatory Codes - 0.5523809523809524
+Regulatory Codes - 0.5523809523809524
+Regulatory Codes - 0.5523809523809524
+Regulatory Codes - 0.5523809523809524
+Regulatory Codes - 0.5523809523809524
+Regulatory Codes - 0.5523809523809524
+Regulatory Codes - 0.5523809523809524
+Requests for Service - 0.4155895691609977
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Retirement - 0.5761904761904763
+Revenue - 0.5238095238095238
+Revenue - 0.5238095238095238
+Revenue - 0.5238095238095238
+Revenue - 0.5238095238095238
+Revenue - 0.5238095238095238
+Safer Streets - 0.25396825396825395
+Safer Streets - 0.25396825396825395
+Safer Streets - 0.25396825396825395
+Safer Streets - 0.25396825396825395
+Safer Streets - 0.25396825396825395
+Safer Streets - 0.25396825396825395
+Safer Streets - 0.25396825396825395
+Safety - 0.5317460317460317
+Safety - 0.5317460317460317
+Safety - 0.5317460317460317
+Safety - 0.5317460317460317
+Safety - 0.5317460317460317
+Safety - 0.5317460317460317
+Safety - 0.5317460317460317
+Safety - 0.5317460317460317
+Safety - 0.5317460317460317
+Safety - 0.5317460317460317
+Safety - 0.5317460317460317
+Safety - 0.5317460317460317
+Safety - 0.5317460317460317
+Safety - 0.5317460317460317
+Sanitation - 0.4142857142857143
+Sanitation - 0.4142857142857143
+Sanitation - 0.4142857142857143
+Sanitation - 0.4142857142857143
+Sanitation - 0.4142857142857143
+Sanitation - 0.4142857142857143
+Sanitation - 0.4142857142857143
+Sanitation - 0.4142857142857143
+Sanitation - 0.4142857142857143
+Schools - 0.42857142857142855
+Scope Statement - 0.4619047619047619
+Scope Statement - 0.4619047619047619
+Service Requests - 0.5654761904761905
+Service Requests - 0.5654761904761905
+Service Requests - 0.5654761904761905
+Service Requests - 0.5654761904761905
+Service Requests - 0.5654761904761905
+Service Requests - 0.5654761904761905
+Service Requests - 0.5654761904761905
+Smarter Students - 0.5208333333333334
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+Social Services - 0.4871031746031746
+State of Vermont - 0.42346938775510196
+State of Vermont - 0.42346938775510196
+Statistics - 0.4142857142857143
+Statistics - 0.4142857142857143
+Streetcar - 0.5052910052910052
+Streetcar - 0.5052910052910052
+Streetcar - 0.5052910052910052
+Streetcar - 0.5052910052910052
+Streetcar - 0.5052910052910052
+Streetcar - 0.5052910052910052
+Streetcar - 0.5052910052910052
+Streetcar - 0.5052910052910052
+Streetcar - 0.5052910052910052
+Streetcar - 0.5052910052910052
+Streetcar - 0.5052910052910052
+Streetcar - 0.5052910052910052
+Stronger Neighborhoods - 0.4958791208791209
+Stronger Neighborhoods - 0.4958791208791209
+Stronger Neighborhoods - 0.4958791208791209
+Stronger Neighborhoods - 0.4958791208791209
+Stronger Neighborhoods - 0.4958791208791209
+Sustainability - 0.4047619047619047
+Sustainability - 0.4047619047619047
+Sustainability - 0.4047619047619047
+Sustainability - 0.4047619047619047
+Sustainability - 0.4047619047619047
+Sustainability - 0.4047619047619047
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+TRS (Teachers' Retirement System City of New York) - 0.415707671957672
+Taxes - 0.3389880952380952
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic - 0.3755952380952381
+Traffic Sign Changes - 0.6054421768707484
+Traffic Sign Changes - 0.6054421768707484
+Traffic Sign Changes - 0.6054421768707484
+Traffic Sign Changes - 0.6054421768707484
+Traffic Sign Changes - 0.6054421768707484
+Traffic Sign Changes - 0.6054421768707484
+Traffic Sign Changes - 0.6054421768707484
+Traffic Sign Changes - 0.6054421768707484
+Traffic Sign Changes - 0.6054421768707484
+Traffic Sign Changes - 0.6054421768707484
+Traffic Sign Changes - 0.6054421768707484
+Traffic Sign Changes - 0.6054421768707484
+Traffic Sign Changes - 0.6054421768707484
+Traffic Sign Changes - 0.6054421768707484
+Traffic Sign Changes - 0.6054421768707484
+Traffic Sign Changes - 0.6054421768707484
+Traffic Sign Changes - 0.6054421768707484
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation - 0.4761904761904762
+Transportation and Infrastructure - 0.6005291005291006
+Transportation and Infrastructure - 0.6005291005291006
+Transportation and Infrastructure - 0.6005291005291006
+Transportation and Infrastructure - 0.6005291005291006
+Transportation and Infrastructure - 0.6005291005291006
+Transportation and Infrastructure - 0.6005291005291006
+Urban Planning - 0.4797619047619047
+Urban Planning - 0.4797619047619047
+Urban Planning - 0.4797619047619047
+Urban Planning - 0.4797619047619047
+Urban Planning - 0.4797619047619047

@@ -1,0 +1,209 @@
+Building and Safety - 1.0
+Building and Safety - 1.0
+Building and Safety - 1.0
+Energy - 0.5555555555555555
+Fire - 0.611111111111111
+KC City Energy Project - 0.5687830687830687
+KC City Energy Project - 0.5687830687830687
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety - 1.0
+Public Safety and Preparedness - 1.0
+Public Safety and Preparedness - 1.0
+Public Safety and Preparedness - 1.0
+Public Safety and Preparedness - 1.0
+Public Safety and Preparedness - 1.0
+Public Safety and Preparedness - 1.0
+Public Safety and Preparedness - 1.0
+Safer Streets - 0.7359523809523809
+Safer Streets - 0.7359523809523809
+Safer Streets - 0.7359523809523809
+Safer Streets - 0.7359523809523809
+Safer Streets - 0.7359523809523809
+Safer Streets - 0.7359523809523809
+Safer Streets - 0.7359523809523809
+Safety - 1.0
+Safety - 1.0
+Safety - 1.0
+Safety - 1.0
+Safety - 1.0
+Safety - 1.0
+Safety - 1.0
+Safety - 1.0
+Safety - 1.0
+Safety - 1.0
+Safety - 1.0
+Safety - 1.0
+Safety - 1.0
+Safety - 1.0
+Sanitation - 0.6799999999999999
+Sanitation - 0.6799999999999999
+Sanitation - 0.6799999999999999
+Sanitation - 0.6799999999999999
+Sanitation - 0.6799999999999999
+Sanitation - 0.6799999999999999
+Sanitation - 0.6799999999999999
+Sanitation - 0.6799999999999999
+Sanitation - 0.6799999999999999
+Scope Statement - 0.6391666666666667
+Scope Statement - 0.6391666666666667
+State of Vermont - 0.620079365079365
+State of Vermont - 0.620079365079365

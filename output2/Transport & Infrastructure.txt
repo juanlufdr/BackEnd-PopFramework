@@ -1,0 +1,160 @@
+Agriculture - 0.3817540484207151
+Audits and Reports - 0.37235449735449727
+Audits and Reports - 0.37235449735449727
+Audits and Reports - 0.37235449735449727
+Audits and Reports - 0.37235449735449727
+Audits and Reports - 0.37235449735449727
+Audits and Reports - 0.37235449735449727
+Audits and Reports - 0.37235449735449727
+Audits and Reports - 0.37235449735449727
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+City Infrastructure - 0.4962962962962963
+Economic Development & Redevelopment - 0.47982572982572985
+Economic Development & Redevelopment - 0.47982572982572985
+Economic Development & Redevelopment - 0.47982572982572985
+Economic Development & Redevelopment - 0.47982572982572985
+Energy - 0.281305114638448
+Environment & Energy - 0.4723063973063973
+Environment & Energy - 0.4723063973063973
+Environment & Energy - 0.4723063973063973
+Environment & Energy - 0.4723063973063973
+Environment & Energy - 0.4723063973063973
+Environment & Energy - 0.4723063973063973
+Environment & Energy - 0.4723063973063973
+Environment & Energy - 0.4723063973063973
+Environment & Energy - 0.4723063973063973
+Environment & Energy - 0.4723063973063973
+Environment & Energy - 0.4723063973063973
+Environment & Energy - 0.4723063973063973
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Environment & Sustainable Development - 0.5245688174259603
+Fees - 0.3337742504409171
+Fees - 0.3337742504409171
+Fire - 0.3324514991181658
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Focus - 0.31710758377425047
+Forms - 0.3818342151675485
+Forms - 0.3818342151675485
+General Information - 0.4642231842231842
+General Information - 0.4642231842231842
+General Information - 0.4642231842231842
+General Information - 0.4642231842231842
+General Information - 0.4642231842231842
+Greenways - 0.34656084656084657
+Greenways - 0.34656084656084657
+Greenways - 0.34656084656084657
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Information Bulletins - 0.406022126022126
+Infrastructure & Transportation - 0.6891534391534391
+Infrastructure & Transportation - 0.6891534391534391
+Infrastructure & Transportation - 0.6891534391534391
+Infrastructure & Transportation - 0.6891534391534391
+Infrastructure & Transportation - 0.6891534391534391
+Infrastructure & Transportation - 0.6891534391534391
+Infrastructure and Transportation - 0.6005291005291006
+Infrastructure and Transportation - 0.6005291005291006
+Infrastructure and Transportation - 0.6005291005291006
+Natural Resources - 0.3411640211640211
+Natural Resources - 0.3411640211640211
+Natural Resources - 0.3411640211640211
+Natural Resources - 0.3411640211640211
+Natural Resources - 0.3411640211640211
+Natural Resources - 0.3411640211640211
+Natural Resources - 0.3411640211640211
+Natural Resources - 0.3411640211640211
+Natural Resources - 0.3411640211640211
+Natural Resources - 0.3411640211640211
+Natural Resources - 0.3411640211640211
+Natural Resources - 0.3411640211640211
+Transportation and Infrastructure - 0.6005291005291006
+Transportation and Infrastructure - 0.6005291005291006
+Transportation and Infrastructure - 0.6005291005291006
+Transportation and Infrastructure - 0.6005291005291006
+Transportation and Infrastructure - 0.6005291005291006
+Transportation and Infrastructure - 0.6005291005291006
