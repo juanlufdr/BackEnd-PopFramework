@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class SimilarityCalculationController {
 	
-	private SimilarityCalculationPrueba s = new SimilarityCalculationPrueba();
+	private SimilarityCalculation s = new SimilarityCalculation();
 	
 	
 	@CrossOrigin(origins = "http://localhost:4200")
@@ -21,8 +21,22 @@ public class SimilarityCalculationController {
     }
 	
 	@CrossOrigin(origins = "http://localhost:4200")
+    @RequestMapping(value="/procesar", method=RequestMethod.GET)
+    public boolean procesar() {
+    	
+    	s.connect();
+    	boolean result = s.procesar();
+    	if(result){
+    		s.crearVistas();
+    	}
+    	
+    	return result;
+     
+    }
+	
+	@CrossOrigin(origins = "http://localhost:4200")
     @RequestMapping(value="/firstMatrix", method=RequestMethod.GET)
-    public SetOfValues firstMatrix() {
+    public FirstMatrixValues firstMatrix() {
     	
     	s.connect();
     	return s.calculateFirstMatrix();
@@ -47,17 +61,6 @@ public class SimilarityCalculationController {
     	//TODO: comprobar desconexion
      
     }
-    
-	@CrossOrigin(origins = "http://localhost:4200")
-    @RequestMapping(value="/greeting", method=RequestMethod.GET)
-    public Greeting gretiin() {
-    	
-    	return s.sayHello();
-    	
-    	//TODO: comprobar conexion;
-     
-    }
-    
     
 
 }

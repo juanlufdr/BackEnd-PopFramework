@@ -1,0 +1,155 @@
+City Hall - 0.6236111111111111
+City Hall - 0.6236111111111111
+Economic Data - 0.5208333333333333
+Economic Data - 0.5208333333333333
+Economic Data - 0.5208333333333333
+GIS data - 0.611111111111111
+GIS data - 0.611111111111111
+GIS data - 0.611111111111111
+GIS data - 0.611111111111111
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Social Services - 1.0
+Health and Social Services - 1.0
+Health and Social Services - 1.0
+Payroll - 0.5396825396825397
+Payroll - 0.5396825396825397
+Payroll - 0.5396825396825397
+Public Health - 1.0
+Public Health - 1.0
+Public Health - 1.0
+Quality of Life - 0.6428571428571429
+Quality of Life - 0.6428571428571429
+Quality of Life - 0.6428571428571429
+Quality of Life - 0.6428571428571429
+Quality of Life - 0.6428571428571429
+Quality of Life - 0.6428571428571429
+Quality of Life - 0.6428571428571429
+Quality of Life - 0.6428571428571429
+Quality of Life - 0.6428571428571429
+Schools - 0.5396825396825397

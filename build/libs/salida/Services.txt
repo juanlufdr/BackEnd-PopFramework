@@ -1,0 +1,566 @@
+311 Service Center - 1.0
+311 Service Center - 1.0
+Agriculture - 0.6212121212121212
+Archived - 0.6833333333333332
+Archived - 0.6833333333333332
+Archived - 0.6833333333333332
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+Census - 0.5138888888888888
+City Finances - 0.6666666666666666
+City Finances - 0.6666666666666666
+City Finances - 0.6666666666666666
+City Finances - 0.6666666666666666
+City Finances - 0.6666666666666666
+City Finances - 0.6666666666666666
+City Services - 1.0
+City Services - 1.0
+City Services - 1.0
+City Services - 1.0
+City Services - 1.0
+City Services - 1.0
+City Services - 1.0
+City Services - 1.0
+City Services - 1.0
+City Services - 1.0
+City Services - 1.0
+City Services - 1.0
+City Services - 1.0
+City Services - 1.0
+City Services - 1.0
+City Services - 1.0
+City Services - 1.0
+City Services - 1.0
+City Services - 1.0
+City Services - 1.0
+City Services - 1.0
+Crime - 0.6583333333333333
+Crime - 0.6583333333333333
+Crime - 0.6583333333333333
+Crime - 0.6583333333333333
+Crime - 0.6583333333333333
+Crime - 0.6583333333333333
+Crime - 0.6583333333333333
+Crime - 0.6583333333333333
+Crime - 0.6583333333333333
+Crime - 0.6583333333333333
+Crime - 0.6583333333333333
+Crime - 0.6583333333333333
+Customer Service - 1.0
+Customer Service - 1.0
+Customer Service - 1.0
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Development Review - 0.651010101010101
+Energy and Environment - 0.6265151515151516
+Energy and Environment - 0.6265151515151516
+Energy and Environment - 0.6265151515151516
+Energy and Environment - 0.6265151515151516
+Energy and Environment - 0.6265151515151516
+Energy and Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment - 0.6265151515151516
+Environment and Natural Resources - 0.5997113997113998
+Environment and Natural Resources - 0.5997113997113998
+Environment and Natural Resources - 0.5997113997113998
+Geographic Base Layers - 0.6138888888888889
+Geographic Base Layers - 0.6138888888888889
+Geographic Base Layers - 0.6138888888888889
+Geographic Base Layers - 0.6138888888888889
+Governance - 0.6416666666666667
+Governance - 0.6416666666666667
+Governance - 0.6416666666666667
+Governance - 0.6416666666666667
+Governance - 0.6416666666666667
+Governance - 0.6416666666666667
+Governance - 0.6416666666666667
+Governance - 0.6416666666666667
+Governance - 0.6416666666666667
+Governance - 0.6416666666666667
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health & Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Human Services - 1.0
+Health and Social Services - 1.0
+Health and Social Services - 1.0
+Health and Social Services - 1.0
+Health, Education, and Social Services - 1.0
+Health, Education, and Social Services - 1.0
+Health, Education, and Social Services - 1.0
+Health, Education, and Social Services - 1.0
+Health, Education, and Social Services - 1.0
+Health, Education, and Social Services - 1.0
+Health, Education, and Social Services - 1.0
+Health, Education, and Social Services - 1.0
+Health, Education, and Social Services - 1.0
+Health, Education, and Social Services - 1.0
+High Performing Government - 0.5541666666666667
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Resources - 0.75
+Human Services - 1.0
+Human Services - 1.0
+Human Services - 1.0
+Insurance - 0.6601851851851852
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+NYCERS (NYC Employees' Retirement System) - 0.5532539682539681
+Peer Review - 0.6680555555555556
+Peer Review - 0.6680555555555556
+Police - 0.625
+Police - 0.625
+Police - 0.625
+Police - 0.625
+Police - 0.625
+Police - 0.625
+Police - 0.625
+Police - 0.625
+Police - 0.625
+Public Services - 1.0
+Public Services - 1.0
+Public Services - 1.0
+Public Services - 1.0
+Requests for Service - 1.0
+Revenue - 0.6071428571428571
+Revenue - 0.6071428571428571
+Revenue - 0.6071428571428571
+Revenue - 0.6071428571428571
+Revenue - 0.6071428571428571
+Service Requests - 1.0
+Service Requests - 1.0
+Service Requests - 1.0
+Service Requests - 1.0
+Service Requests - 1.0
+Service Requests - 1.0
+Service Requests - 1.0
+Smarter Students - 0.6330357142857143
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Social Services - 1.0
+Streetcar - 0.6341666666666665
+Streetcar - 0.6341666666666665
+Streetcar - 0.6341666666666665
+Streetcar - 0.6341666666666665
+Streetcar - 0.6341666666666665
+Streetcar - 0.6341666666666665
+Streetcar - 0.6341666666666665
+Streetcar - 0.6341666666666665
+Streetcar - 0.6341666666666665
+Streetcar - 0.6341666666666665
+Streetcar - 0.6341666666666665
+Streetcar - 0.6341666666666665
+Stronger Neighborhoods - 0.625
+Stronger Neighborhoods - 0.625
+Stronger Neighborhoods - 0.625
+Stronger Neighborhoods - 0.625
+Stronger Neighborhoods - 0.625
