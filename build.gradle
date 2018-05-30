@@ -11,9 +11,10 @@ apply plugin: 'java'
 apply plugin: 'eclipse'
 apply plugin: 'idea'
 apply plugin: 'org.springframework.boot'
+apply plugin: 'java-library'
 
 jar {
-    baseName = 'gs-rest-service'
+    baseName = 'PopFramework-Backend'
     version =  '0.1.0'
 }
 
@@ -28,6 +29,7 @@ dependencies {
     compile("org.springframework.boot:spring-boot-starter-web")
     testCompile('org.springframework.boot:spring-boot-starter-test')
     
+    
         // https://mvnrepository.com/artifact/net.ricecode/string-similarity
 	compile group: 'net.ricecode', name: 'string-similarity', version: '1.0.0'
 	
@@ -36,6 +38,10 @@ dependencies {
 	
 	// https://mvnrepository.com/artifact/commons-lang/commons-lang
 	compile group: 'commons-lang', name: 'commons-lang', version: '2.6'
+	
+	api 'commons-httpclient:commons-httpclient:3.1'
+    implementation 'org.apache.commons:commons-lang3:3.5'
+	
 	
 	// providedCompile group: 'javax.servlet', name: 'javax.servlet-api', version: '3.0.1'	
 }

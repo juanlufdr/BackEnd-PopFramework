@@ -15,4 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'wnet_gradle'
+rootProject.name = 'backend'
