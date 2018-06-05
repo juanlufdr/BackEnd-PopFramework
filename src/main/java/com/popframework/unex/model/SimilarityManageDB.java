@@ -109,6 +109,30 @@ public class SimilarityManageDB {
 		return themes;
 	}
 
+	/**
+	 * Actualiza la categoria del tema en base de datos
+	 * 
+	 * @param id
+	 *            identificador del tema
+	 * @param tableName
+	 *            nombre de la tabla
+	 * @param name
+	 *            categoria a asignar
+	 */
+	public void update(String id, String tableName, String name) {
+		String sql = "UPDATE usa_city_datasets_categorized SET Category = ? WHERE identifier = ?";
+
+		try {
+			PreparedStatement pstmt = this.conn
+					.prepareStatement("UPDATE usa_city_datasets_categorized SET Category = ? WHERE identifier = ?");
+			pstmt.setString(1, name);
+			pstmt.setString(2, id);
+			pstmt.executeUpdate();
+		} catch (SQLException e) {
+			System.out.println(e.getMessage());
+		}
+	}
+
 	public void borrarVistas() {
 		ResultSet result = null;
 		System.out.println("entra en borrar vistas");

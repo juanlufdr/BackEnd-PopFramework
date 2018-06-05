@@ -57,8 +57,6 @@ public class SimilarityCalculation {
 		String[] words1 = p1.split(" ");
 		String[] words2 = p2.split(" ");
 
-		// jaro-winkler
-
 		SimilarityStrategy strategy = new JaroWinklerStrategy();
 		StringSimilarityService service = new StringSimilarityServiceImpl(strategy);
 
@@ -106,17 +104,6 @@ public class SimilarityCalculation {
 		}
 	}
 
-	// private void loadFilesInfo(BufferedReader br2,ArrayList<String> categorias)
-	// throws IOException {
-	// String currentLine2;
-	// while ((currentLine2 = br2.readLine()) != null) {
-	// categorias.add(currentLine2);
-	// }
-	//
-	// System.out.println("Categorias --> "+ categorias.size());
-	//
-	// }
-
 	/**
 	 * Procesa todos los temas y realiza su comparacion con todas las categorias
 	 * 
@@ -133,7 +120,7 @@ public class SimilarityCalculation {
 		double[] resultadoParcial;
 		double distancia;
 		int[] arrayResultados = new int[15];
-		int contador;
+		int contador, total_procesados;
 		String mejorCategoria;
 		String[] themeParts;
 		boolean esIgual;
@@ -153,11 +140,9 @@ public class SimilarityCalculation {
 			br3 = new BufferedReader(fr3);
 
 			loadFilesInfo(br2, br3, categorias, identificadores);
-
-			// compararCategorias(categorias, temas, identificadores, arrayResultados);
-			// ArrayList<String> identificadores, int[] arrayResultados) {
-
+			total_procesados = 1;
 			for (String actualTheme : temas) {
+
 				resultadoParcial = new double[categorias.size()];
 				contador = 0;
 				themeParts = actualTheme.split(" ");
@@ -170,8 +155,8 @@ public class SimilarityCalculation {
 										|| actualCategory.toLowerCase().contains(individualPart.toLowerCase() + ","))) {
 							arrayResultados[categorias.indexOf(actualCategory)]++;
 							esIgual = true;
-							update(identificadores.get(temas.indexOf(actualTheme)), "usa_city_datasets_categorized",
-									actualCategory);
+							this.manageDB.update(identificadores.get(temas.indexOf(actualTheme)),
+									"usa_city_datasets_categorized", actualCategory);
 						}
 					}
 
@@ -187,16 +172,16 @@ public class SimilarityCalculation {
 					if (resultadoParcial[mejorResultado] >= 0.4) {
 						arrayResultados[mejorResultado]++;
 						mejorCategoria = selectCategoria(mejorResultado);
-						update(identificadores.get(temas.indexOf(actualTheme)), "usa_city_datasets_categorized",
-								mejorCategoria);
+						this.manageDB.update(identificadores.get(temas.indexOf(actualTheme)),
+								"usa_city_datasets_categorized", mejorCategoria);
 					} else {
 						arrayResultados[arrayResultados.length - 1]++;
-						update(identificadores.get(temas.indexOf(actualTheme)), "usa_city_datasets_categorized",
-								"Others");
+						this.manageDB.update(identificadores.get(temas.indexOf(actualTheme)),
+								"usa_city_datasets_categorized", "Others");
 					}
 				}
-
-				// System.out.println(temas.indexOf(actualTheme));
+				System.out.println("Temas procesados --> " + total_procesados);
+				total_procesados++;
 			}
 
 		} catch (IOException e) {
@@ -276,50 +261,6 @@ public class SimilarityCalculation {
 		}
 
 		return tema;
-	}
-
-	/**
-	 * Actualiza la categoria del tema en base de datos
-	 * 
-	 * @param id
-	 *            identificador del tema
-	 * @param tableName
-	 *            nombre de la tabla
-	 * @param name
-	 *            categoria a asignar
-	 */
-	public void update(String id, String tableName, String name) {
-		String sql = "UPDATE usa_city_datasets_categorized SET Category = ? WHERE identifier = ?";
-
-		try {
-			PreparedStatement pstmt = manageDB.getConnection()
-					.prepareStatement("UPDATE usa_city_datasets_categorized SET Category = ? WHERE identifier = ?");
-			pstmt.setString(1, name);
-			pstmt.setString(2, id);
-			pstmt.executeUpdate();
-		} catch (SQLException e) {
-			System.out.println(e.getMessage());
-		}
-	}
-
-	/**
-	 * Recupera el nombre de las vistas existentes en base de datos
-	 */
-	public void select() {
-		ResultSet result = null;
-		try {
-			PreparedStatement st = manageDB.getConnection()
-					.prepareStatement("select name  from sqlite_master where type = 'view'");
-			result = st.executeQuery();
-			while (result.next()) {
-				System.out.print("name: ");
-				System.out.println(result.getString("name"));
-
-				System.out.println("=======================");
-			}
-		} catch (SQLException ex) {
-			System.err.println(ex.getMessage());
-		}
 	}
 
 	/**
@@ -443,7 +384,7 @@ public class SimilarityCalculation {
 				}
 			}
 
-			System.out.println("Fin consulta 1");
+			System.out.println("Fin consulta 1.1");
 			firstMatrix.setTotal_references_category_datasets(total_references_collect);
 
 			st2 = manageDB.getConnection().prepareStatement("select * from categories_total_datasets_in");
@@ -462,7 +403,7 @@ public class SimilarityCalculation {
 			}
 
 			firstMatrix.setDatasets_references_ornot_github(total_datasets_in_category_collect);
-			System.out.println("Fin consulta 2");
+			System.out.println("Fin consulta 1.2");
 
 			st3 = manageDB.getConnection().prepareStatement("select * from categories_total_datasets_no_referenced");
 
@@ -479,7 +420,7 @@ public class SimilarityCalculation {
 
 			}
 			firstMatrix.setDatasets_not_references_github(categories_total_datasets_no_referenced_collect);
-			System.out.println("Fin consulta 3");
+			System.out.println("Fin consulta 1.3");
 
 			CollectionValue categories_total_datasets_referenced_collect = new CollectionValue();
 			st4 = manageDB.getConnection().prepareStatement("select * from categories_total_datasets_referenced");
@@ -495,7 +436,7 @@ public class SimilarityCalculation {
 
 			}
 			firstMatrix.setDatasets_references_github(categories_total_datasets_referenced_collect);
-			System.out.println("Fin consulta 4");
+			System.out.println("Fin consulta 1.4");
 
 			CollectionValue categories_total_repositories_referencing_collect = new CollectionValue();
 			st5 = manageDB.getConnection().prepareStatement("select * from categories_total_repositories_referencing");
@@ -511,7 +452,7 @@ public class SimilarityCalculation {
 			}
 			firstMatrix
 					.setDistinct_repositories_referencing_category(categories_total_repositories_referencing_collect);
-			System.out.println("Fin consulta 5");
+			System.out.println("Fin consulta 1.5");
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}
@@ -550,7 +491,7 @@ public class SimilarityCalculation {
 
 			secondMatrix.setContributors(contributors);
 
-			System.out.println("Fin consulta 1");
+			System.out.println("Fin consulta 2.1");
 
 			CollectionValue contributions = new CollectionValue();
 			st2 = manageDB.getConnection().prepareStatement("select * from categories_contributions");
@@ -566,7 +507,7 @@ public class SimilarityCalculation {
 			}
 
 			secondMatrix.setContributions(contributions);
-			System.out.println("Fin consulta 2");
+			System.out.println("Fin consulta 2.2");
 
 			CollectionValue subscribers = new CollectionValue();
 			st3 = manageDB.getConnection().prepareStatement("select * from categories_subscribers");
@@ -583,7 +524,7 @@ public class SimilarityCalculation {
 			}
 
 			secondMatrix.setSubscribers(subscribers);
-			System.out.println("Fin consulta 3");
+			System.out.println("Fin consulta 2.3");
 
 			CollectionValue maturity = new CollectionValue();
 			st4 = manageDB.getConnection().prepareStatement("select * from categories_madurity_total");
@@ -600,7 +541,7 @@ public class SimilarityCalculation {
 			}
 
 			secondMatrix.setMaturity(maturity);
-			System.out.println("Fin consulta 4");
+			System.out.println("Fin consulta 2.4");
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}
